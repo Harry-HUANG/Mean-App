@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cbab8de-6292-44ed-8d56-38c8a45d0828" name="Default Changelist" comment="">
+    <list default="true" id="3cbab8de-6292-44ed-8d56-38c8a45d0828" name="Default Changelist" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/angular-src" beforeDir="false" afterPath="$PROJECT_DIR$/angular-src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular-src/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-src/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-src/src/app/components/dashboard/dashboard.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-src/src/app/services/auth.service.ts" afterDir="false" />
@@ -133,7 +134,7 @@
         <option value="Harry-HUANG &lt;z5017977@zmail.unsw.edu.au&gt;" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angular-src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -273,6 +274,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -318,7 +320,7 @@
       <workItem from="1558502924810" duration="13969000" />
       <workItem from="1558584323354" duration="8695000" />
       <workItem from="1559037659397" duration="32753000" />
-      <workItem from="1559195203732" duration="12096000" />
+      <workItem from="1559195203732" duration="12382000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1559211264457</created>
@@ -331,10 +333,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90521000" />
+    <option name="totallyTimeSpent" value="90807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="23" width="1917" height="1113" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16402954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
